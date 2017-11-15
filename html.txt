@@ -1,0 +1,36 @@
+모든 HTML문서는 문서 유형 선언문(<!Doctype html>.html>으로 시작해야한다.
+
+HTML문서 자체는<html>>로 시작하여</html>로 끝납니다.
+
+HTML문서의 알아 볼수 있는 부분은<Body>과</Body>(으)로 구분됩니다.
+<body>로 시작</body>로 끝일 거임
+
+HTML단락은<p>태그로 정의됩니다.
+내생각: <p>로 시작해서</p>로 끝나는데 그사이에 글을 쓸수 있는것 인듯
+ex) <p> hello world! </p>
+
+<a href = "사이트 주소를 적는다"> 여기에 쓰는것은 이것을 누르면 그 사이트로 들어간다는 뜻.</a>\
+ex)<a href="https://www.naver.com/">This is a link</a>
+
+html로 사진 보여주는 방법
+ex)<img src="w3schools.jpg" alt="W3Schools.com" width="108" height="142">
+src 는 태그 경로를 설명 한다.
+width = 1900이 꽉채움 
+heigt = 200이 적당
+
+
+<br> = 줄바꿈
+
+표 = table 이라고 쓴다. table은 이해하기 조금 어려움
+<td> </td> = table data. 테이블 데이터
+
+
+<tr> </tr> = tabe row 같은 행
+
+<table border = "number">  border는 테두리
+
+<video>
+	<source src = "비디오주소">
+</video>
+
+<meta charset = "utf-8"=>
